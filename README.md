@@ -13,3 +13,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 App URL - https://movie-flix-nextjs.vercel.app/
+
+## Resources Used
+Rapid Api - https://rapidapi.com/hub (for free data)
+Mongo DB - https://account.mongodb.com/account/login
+Ract Icons - https://react-icons.github.io/react-icons/ (for icons)
+Vercel - https://vercel.com/ (to deploy)
+Next.js - https://nextjs.org/docs (Next.js docs)
